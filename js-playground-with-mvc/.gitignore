@@ -1,12 +1,13 @@
-node_modules
-test-results
-azure_error
+# Node.js dependencies and generated stuff:
+node_modules/
+test-results/
+azure_error/
 
+# Logs and executables:
 *.log
 *.exe
 
+# Binaries:
 *.o
-
 *.dblite
-
 *.pid
