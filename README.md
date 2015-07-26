@@ -11,5 +11,5 @@
 - Frameworks and Libraries:
   - Template with React.js, Material UI, router and internationalization.
   - [Cycle.js](https://github.com/staltz/cycle) example.
-  - [Falkor + JSON Graph](http://techblog.netflix.com/2013/01/reactive-programming-at-netflix.html).
-  - [Relay + GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html).
+  - [Falkor + JSON Graph](http://techblog.netflix.com/2013/01/reactive-programming-at-netflix.html)
+  - [Relay + GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
